@@ -1,4 +1,4 @@
-# Future Possibilities
+# 32 Future Possibilities
 ## Likely Future Possibilities
 
 <u>"What if" or "suppose" followed by the present tense</u>
@@ -44,7 +44,7 @@ are used to show planning for a possible future situation.
 
 <table>
     <tr>
-        <td></td>
+        <td>what if / suppose</td>
         <td>present</td>
         <td>likely</td>
         <td>will</td>     
@@ -56,7 +56,7 @@ are used to show planning for a possible future situation.
         <td>would</td>
     </tr>  
     <tr>
-        <td></td>
+        <td>what if / suppose</td>
         <td>past perfect</td>
         <td>didn't happen</td>
         <td>would have</td> 
